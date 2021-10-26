@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I love to create front-end web designs and I work with html,css and js.
 - 🌱 I’m currently learning React and Angular.
-- I love creating automated bot with python as well.
+- I love creating automated bots with python and selenium as well.
