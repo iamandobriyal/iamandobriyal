@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to create front-end web designs and I work with html,css and js.
-- 🌱 I’m currently learning React and Angular.
+I love to create front-end web designs and I work with html,css,js and php.
+- 🌱 I’m currently learning React.
 - I love creating automated bots with python and selenium as well.
