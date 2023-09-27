@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to create front-end web designs and I work with html,css,js and php.
-- 🌱 I’m currently learning React.
+I am a full stack developer.
+- 🌱 I’m currently working with nextjs and nodejs.
+- I know mean mern and php with sql.
 - I love creating automated bots with python and selenium as well.
