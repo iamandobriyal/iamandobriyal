@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I am a full stack developer.
 - 🌱 I’m currently working with nextjs and nodejs.
-- I know mean mern and php with sql.
+- I can work with mern and php with sql.
 - I love creating automated bots with python and selenium as well.
